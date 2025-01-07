@@ -41,7 +41,7 @@
 
 </div>
 
-<h2>Contributions</h2>
+<h2>Profile Views</h2>
 <br/>
 
 
