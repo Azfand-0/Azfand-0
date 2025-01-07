@@ -2,7 +2,7 @@
 <div align='center'>
  <h3>How to contact me </h3>
  
-[![Discord](https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/956149029140586496) &nbsp;
+[![Discord](https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/969253071530106890) &nbsp;
 [![Contact](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail)](mailto:metalcool897@gmail.com) &nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Azfand-0) &nbsp;
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asfandyar-shabbir-6077b2268/) &nbsp;
