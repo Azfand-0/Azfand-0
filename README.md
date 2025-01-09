@@ -1,4 +1,4 @@
-<h2>👋 Hi, I’m Asfandyar Shabbir</h2> 
+<h2> Hi, I’m Asfandyar Shabbir</h2> 
 <div align='center'>
  <h3>How to contact me </h3>
  
