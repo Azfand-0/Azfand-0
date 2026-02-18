@@ -45,4 +45,3 @@
 <br/>
 
 
-![Visitor Count](https://profile-counter.glitch.me/azfand-0/count.svg)
