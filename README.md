@@ -41,7 +41,6 @@
 
 </div>
 
-<h2>Profile Views</h2>
 <br/>
 
 
